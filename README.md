@@ -82,11 +82,11 @@ Check out the live demo of the Appkodes TaskRabbit Clone [here](https://idemand.
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance the functionality and performance of our TaskRabbit clone. Please follow our [contributing guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions to enhance the functionality and performance of our TaskRabbit clone. Please follow our [contributing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) to get started.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 📞 Support
 
